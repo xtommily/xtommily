@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @xtommily
+- 👀 I’m interested in ML/DL
+- 🌱 I’m currently learning about Computer Vision
+- 💞️ I’m looking to collaborate on awsome ML/DL projects
+- 📫 Reach me at tomasz.piesio@protonmail.com
